@@ -2,7 +2,7 @@
 Markov Chain Generator
 
 #Usage:
-Args: <filepath> <number of sentences>
+Args:  filepath number_of_sentences
 
 The filepath of the source text, and the required number of output sentences.
 
